@@ -4,7 +4,7 @@
 pip install -r requirements.txt
 ```
 ## dataset
-The data is already in this repo, to learn more you can go [`CUB-200-2011`](https://data.caltech.edu/records/65de6-vp158)
+The data is not in this repo, to download it you can go [`CUB-200-2011`](https://data.caltech.edu/records/65de6-vp158)
 It is recommaned to put the data file in the dataset folder like
 ```
 dataset/
